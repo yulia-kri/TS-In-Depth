@@ -1,3 +1,5 @@
+import './08_task';
+
 showHello('greeting', 'TypeScript');
 
 function showHello(divName: string, name: string) {
